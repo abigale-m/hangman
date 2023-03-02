@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#word {
+  font-size: 3em;
+  text-align: center;
+  margin: 2em 0;
+}
+
+#letters {
+  text-align: center;
+}
+
+#guesses {
+  margin-top: 2em;
+}
